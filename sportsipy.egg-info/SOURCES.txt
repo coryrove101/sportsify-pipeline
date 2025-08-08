@@ -1,0 +1,12 @@
+README.rst
+setup.py
+sportsipy.egg-info/PKG-INFO
+sportsipy.egg-info/SOURCES.txt
+sportsipy.egg-info/dependency_links.txt
+sportsipy.egg-info/requires.txt
+sportsipy.egg-info/top_level.txt
+tests/test_api.py
+tests/test_db.py
+tests/test_model.py
+tests/test_pipeline.py
+tests/test_web.py
